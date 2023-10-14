@@ -14,7 +14,6 @@ export default function ThirdChallenge() {
                 <span>
                     <ul className="list-item">
                         <li>
-                            2197
                             192.179.18.57 data: 2005/05/14 horas: 15:20
                             <br />Resultado: 5420.417.65.05
                         </li>
