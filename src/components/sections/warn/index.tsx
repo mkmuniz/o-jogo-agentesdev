@@ -14,7 +14,9 @@ export default function WarnSection() {
             </div>
             <div className="bg-standard z-20 w-4/5 h-[80%] rounded-3xl text-center flex flex-col justify-center m-6" style={{ paddingTop: '5rem' }}>
                 <span className=" text-black m-6 overflow-y-auto">
-                    Cabelos Livres é uma empresa de tratamento capilar. Seu principal produto é o Não Calvo, um remédio que age contra a queda de cabelo. Nos últimos 12 meses, a organização viveu um boom de 600% nas suas vendas. Especialistas afirmam que esse aumento é devido ao respeito à privacidade dos clientes, preços baixos e marketing efetivo. Mas algumas pessoas não estavam satisfeitas com esse sucesso.
+                    <span className="text-black m-6 overflow-y-auto flex flex-col space-y-2">
+                        Cabelos Livres é uma empresa de tratamento capilar. Seu principal produto é o Não Calvo, um remédio que age contra a queda de cabelo. Nos últimos 12 meses, a organização viveu um boom de 600% nas suas vendas. Especialistas afirmam que esse aumento é devido ao respeito à privacidade dos clientes, preços baixos e marketing efetivo. Mas algumas pessoas não estavam satisfeitas com esse sucesso.
+                    </span>
                     <br />
                     <span>
                         Um Ministro do Supremo Tribunal Democrático (STD), Xandão Moreira, determinou o bloqueio das contas e confisco de bens da Cabelos Livres, após alegar que o modelo de negócios deles era baseado em pensamentos preconceituosos e ofensivos a um problema sensível: A calvície. Em votação, o STD caminha para criminalizar a carecofobia.
