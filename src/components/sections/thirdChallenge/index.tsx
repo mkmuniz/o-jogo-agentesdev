@@ -9,42 +9,13 @@ export default function ThirdChallenge() {
                     Qual é a chave privada, dado o IP 205.169.47.1, data 2014/02/23 e hora 10:06?
                 </span>
                 <p>
-                    Exemplo:
+                    Dicas:
                 </p>
                 <span>
                     <ul className="list-item">
                         <li>
-                            192.179.18.57 data: 2005/05/14 hora:15:20
-                        </li>
-                        <li>
-                            1. 192+2005=2197
-                        </li>
-                        <li>
-                            2. 179+05=184
-                        </li>
-                        <li>
-                            3. 18+14=32
-                        </li>
-                        <li>
-                            4. 72=05
-                        </li>
-                        <li>
-                            Aplicando a cifra de césar sempre andar 3 casas a direita e número maior que 9, preserva o último algarismo
-                        </li>
-                        <li>
-                            1.  2197 =5420
-                        </li>
-                        <li>
-                            2.  184=417
-                        </li>
-                        <li>
-                            3. 32=65
-                        </li>
-                        <li>
-                            4. 72=05
-                        </li>
-                        <li>
-                            Número final: 5420.417.65.05
+                            192.179.18.57 data: 2005/05/14 hora: 15:20 chave privada: 217-287-490-70
+                            <br/>Resposta: 5420.417.65.05
                         </li>
                     </ul>
                 </span>
