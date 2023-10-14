@@ -14,8 +14,17 @@ export default function ThirdChallenge() {
                 <span>
                     <ul className="list-item">
                         <li>
-                            192.179.18.57 data: 2005/05/14 hora: 15:20 chave privada: 217-287-490-70
-                            <br/>Resposta: 5420.417.65.05
+                            2197
+                            192.179.18.57 data: 2005/05/14 horas: 15:20
+                            <br />Resultado: 5420.417.65.05
+                        </li>
+                        <li>
+                            192.175.56.38 data: 2017/11/24 horas: 08:04
+                            <br />Resultado: 5532.429.13.49
+                        </li>
+                        <li>
+                            158.230.27.03 data: 2009/06/02 horas: 19:57
+                            <br /> Resultado: 5490.569.52.55
                         </li>
                     </ul>
                 </span>
